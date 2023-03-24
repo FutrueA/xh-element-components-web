@@ -1,0 +1,1 @@
+import{_ as o,a as c,o as n,c as t,e as s}from"./index-e6eb3734.js";const r={};function _(a,m){const e=c("m-choose-city");return n(),t("div",null,[s(e)])}const l=o(r,[["render",_]]);export{l as default};

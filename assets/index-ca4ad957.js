@@ -1,0 +1,1 @@
+import{_ as t,a as o,o as r,c as s,e as n}from"./index-e6eb3734.js";const c={};function a(i,p){const e=o("m-progress");return r(),s("div",null,[n(e,{isAnimation:"",percentage:"60"}),n(e,{isAnimation:"",type:"circle",percentage:"60"}),n(e,{isAnimation:"","text-inside":!0,"stroke-width":22,percentage:80,status:"warning"})])}const m=t(c,[["render",a]]);export{m as default};
